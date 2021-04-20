@@ -24,7 +24,7 @@ panel==0.6.4
 
 
 psutil==5.6.3
-py==1.8.0
+py==1.10.0
 pycares==3.0.0
 pycodestyle==2.5.0
 pycosat==0.6.3
